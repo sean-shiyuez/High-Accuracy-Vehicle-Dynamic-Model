@@ -105,7 +105,7 @@ The model outputs six state variables after each step:
 
 If you use this model in your research or applications, please consider citing the following paper:
 
-> S. Zhao, J. Zhang, C. He, X. Hou and H. Huang, "Adaptive Drift Control of Autonomous Electric Vehicles After Brake System Failures," in IEEE Transactions on Industrial Electronics, vol. 71, no. 6, pp. 6041-6052, June 2024, doi: 10.1109/TIE.2023.3294594.
+> S. Zhao, J. Zhang, C. He, X. Hou and H. Huang, ["Adaptive Drift Control of Autonomous Electric Vehicles After Brake System Failures,"](https://ieeexplore.ieee.org/abstract/document/10195855) in IEEE Transactions on Industrial Electronics, vol. 71, no. 6, pp. 6041-6052, June 2024, doi: 10.1109/TIE.2023.3294594.
 > 
 
 Thank you for supporting our work!
