@@ -2,7 +2,7 @@
 
 # High Accuracy Vehicle Dynamic Model
 
-[**For MacOS only now**] This repository provides a **high-accuracy vehicle dynamic model** based on a vehicle body model (longitudinal, lateral, and yaw dynamics) and a **high-fidelity tire model**, validated to produce results **nearly identical to Carsim** under the same specifications.
+[**For MacOS and Windows Available**] This repository provides a **high-accuracy vehicle dynamic model** based on a vehicle body model (longitudinal, lateral, and yaw dynamics) and a **high-fidelity tire model**, validated to produce results **nearly identical to Carsim** under the same specifications.
 
 The model is built in Simulink and compiled into a shared library (`libmycontroller.dylib`). It supports both conventional vehicle control and advanced drift control applications. Python wrapper classes and test scripts are included, enabling seamless interaction with the model through Python. This makes it particularly suitable for reinforcement learning experiments, control algorithm development, or other research scenarios.
 
