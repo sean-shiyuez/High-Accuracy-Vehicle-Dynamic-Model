@@ -130,6 +130,6 @@ By using this software, you agree to these terms.
 If you have questions or run into any issues:
 
 - Feel free to open a GitHub issue (if hosted on GitHub).
-- Or reach out to the author(s) via the contact information in this repository (if provided).
+- Or reach out to the author(s) via the contact information in this repository (https://sean-shiyuez.github.io/).
 
 We welcome contributions and feedback to help improve this High Accuracy Vehicle Dynamic Model. Enjoy exploring the dynamics!
